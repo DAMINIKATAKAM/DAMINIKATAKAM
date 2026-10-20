@@ -1,7 +1,7 @@
 # Hi 👋, I'm Damini Katakam
 
 <p align="center">
-  <strong>Electronics & Communication Engineering | Embedded Systems | FPGA & VLSI | AI/ML</strong>
+  <strong>Electronics and Communication Engineer | RTL Design | VLSI | Embedded Systems | Firmware Development</strong>
 </p>
 
 <p align="center">
