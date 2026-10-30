@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damini Katakam</h1>
-<h3 align="center">An Electronics and Communication Engineering student passionate about RTL Design, FPGA Development, VLSI and Embedded Systems</h3>
+<h3 align="center">An Electronics and Communication Engineering student working across RTL Design, VLSI, Embedded Systems and AI</h3>
 
 
 
@@ -8,14 +8,16 @@
 ## 💫 About Me
 
 - 🎓 **Education:** B.Tech ECE @ **VIT Vellore** with CGPA **9.36/10**
-- ⚡ **Currently:** Designing and verifying digital hardware in Verilog, from clock domain crossing to real-time pixel pipelines
-- 🔬 **RTL & Verification:** FSMs, clock domain crossing, pipelining, serial protocols (SPI) and self-checking testbenches
-- 🔌 **Embedded Systems:** Arduino, ESP32, sensors and Embedded C for real-world hardware projects
-- 🧠 **Interests:** FPGA acceleration, VLSI design, edge AI and intelligent hardware systems
-- 💻 **Languages:** Verilog HDL, C, Embedded C, Python, Java
-- 🛠️ **Tools:** Icarus Verilog, GTKWave, Quartus Prime, ModelSim, Cadence, MATLAB/Simulink, Git
-- 🏗️ **Projects:** [Async FIFO](https://github.com/DAMINIKATAKAM/async-fifo-verilog) (CDC) · [SPI Master–Slave](https://github.com/DAMINIKATAKAM/spi-master-slave-verilog) (serial protocol) · [Image Pipeline](https://github.com/DAMINIKATAKAM/image-processing-verilog) (pixel processing) · [Smart Glasses](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) (assistive edge AI)
-- 🎯 **Looking for:** Opportunities in FPGA, RTL design and VLSI
+- 🚀 **Currently:** Building hardware end to end, from Verilog RTL and CMOS circuits to ESP32 devices and AI-powered applications
+- ⚡ **Digital Design & FPGA:** RTL in Verilog with FSMs, clock domain crossing, pipelining, SPI and self-checking testbenches
+- 🔬 **VLSI:** Transistor-level CMOS design and simulation in Cadence Virtuoso
+- 🔌 **Embedded Systems & IoT:** ESP32, Arduino, sensors, Bluetooth (HC-05) and Embedded C for real-world devices
+- 🤖 **AI & Cloud:** LSTM forecasting, RAG, Gemini API, computer vision, Edge Impulse and AWS-based analytics
+- 💻 **Languages:** Verilog HDL, C, C++, Embedded C, Python, Java
+- 🛠️ **Tools:** Icarus Verilog, GTKWave, Quartus Prime, ModelSim, Cadence Virtuoso, MATLAB/Simulink, Arduino IDE, Git
+- 🏗️ **Projects:** [Async FIFO](https://github.com/DAMINIKATAKAM/async-fifo-verilog) (CDC) · [Image Pipeline](https://github.com/DAMINIKATAKAM/image-processing-verilog) (Verilog) · [Smart Glasses](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) (assistive ESP32) · [TrafficSense](https://github.com/DAMINIKATAKAM/TrafficSense-Intelligent-Traffic-Management) (smart-city AI)
+- 🧠 **Interests:** FPGA acceleration, edge AI, IoT and intelligent hardware systems
+- 🎯 **Looking for:** Opportunities in RTL design, FPGA, VLSI and embedded systems
 
 ---
 
@@ -96,11 +98,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,matlab,git,github,linux,vscode" alt="Embedded and development tools" />
 </p>
+<p align="center"><b>Also:</b> ESP32 · Arduino Uno · HC-05 Bluetooth · Simulink</p>
 
-<h3 align="center">🤖 AI & Machine Learning</h3>
+<h3 align="center">🤖 AI, Machine Learning & Cloud</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws" alt="AI and cloud tools" />
 </p>
+<p align="center"><b>Also:</b> Scikit-learn · Streamlit · Hugging Face · Gemini API · Edge Impulse</p>
 
 ---
 
