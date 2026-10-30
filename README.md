@@ -1,81 +1,103 @@
-# Hi 👋, I'm Damini Katakam
+<h1 align="center">Hi 👋, I'm Damini Katakam</h1>
+<h3 align="center">An Electronics and Communication Engineering student passionate about RTL Design, FPGA Development, VLSI and Embedded Systems</h3>
 
 <p align="center">
-  <strong>Electronics and Communication Engineer | RTL Design | VLSI | Embedded Systems | Firmware Development</strong>
-</p>
-
-<p align="center">
-  Building intelligent hardware solutions at the intersection of electronics, embedded systems, and artificial intelligence.
+  <img src="banner.svg" alt="FPGA chip with clock waveforms" width="100%" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 **Education:** B.Tech in Electronics and Communication Engineering at VIT Vellore
-- 📈 **Academic Performance:** CGPA 9.36/10
-- 🔧 **Focus Areas:** Embedded Systems, Digital Design, FPGA Development, and VLSI
-- 🧠 **Exploring:** Machine Learning, Generative AI, IoT, and intelligent automation
-- 💻 **Programming:** C, Embedded C, Python, Java, and Verilog HDL
-- 🛠️ **Tools:** Quartus Prime, ModelSim, MATLAB/Simulink, Arduino IDE, and Git
-- 🚀 **Currently:** Strengthening my hardware design, RTL development, and embedded firmware skills
-- 🎯 **Goal:** To build reliable, efficient, and intelligent hardware systems
+- 🎓 **Education:** B.Tech ECE @ **VIT Vellore** with CGPA **9.36/10**
+- ⚡ **Currently:** Designing and verifying digital hardware in Verilog, from clock domain crossing to real-time pixel pipelines
+- 🔬 **RTL & Verification:** FSMs, clock domain crossing, pipelining, serial protocols (SPI) and self-checking testbenches
+- 🔌 **Embedded Systems:** Arduino, ESP32, sensors and Embedded C for real-world hardware projects
+- 🧠 **Interests:** FPGA acceleration, VLSI design, edge AI and intelligent hardware systems
+- 💻 **Languages:** Verilog HDL, C, Embedded C, Python, Java
+- 🛠️ **Tools:** Icarus Verilog, GTKWave, Quartus Prime, ModelSim, Cadence, MATLAB/Simulink, Git
+- 🏗️ **Projects:** [Async FIFO](https://github.com/DAMINIKATAKAM/async-fifo-verilog) (CDC) · [SPI Master–Slave](https://github.com/DAMINIKATAKAM/spi-master-slave-verilog) (serial protocol) · [Image Pipeline](https://github.com/DAMINIKATAKAM/image-processing-verilog) (pixel processing) · [Smart Glasses](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) (assistive edge AI)
+- 🎯 **Looking for:** Opportunities in FPGA, RTL design and VLSI
 
-<p align="center">
-  <i>"Think in circuits. Design in logic. Build for the real world."</i> ⚡
-</p>
+---
+
+<p align="center"><i>"Think in circuits. Design in logic. Build for the real world."</i> ⚡</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | What it does | Highlights |
 |---|---|---|
-| [Verilog Digital Safe Lock](https://github.com/DAMINIKATAKAM/Verilog-Digital-Safe-Lock) | Digital security system designed using RTL logic | Verilog, FPGA |
-| [CMOS Schmitt Trigger](https://github.com/DAMINIKATAKAM/CMOS-Schmitt-Trigger-Cadence) | CMOS circuit design and simulation | CMOS, Cadence |
-| [Voice-Controlled Smart Car](https://github.com/DAMINIKATAKAM/Voice-Controlled-Smart-Car) | Bluetooth-controlled vehicle with obstacle avoidance | Arduino, Embedded C |
-| [Smart Glasses for the Visually Impaired](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) | Assistive technology using embedded hardware and AI | Embedded Systems, Edge Impulse |
-| [TrafficSense](https://github.com/DAMINIKATAKAM/TrafficSense-Intelligent-Traffic-Management) | Intelligent traffic monitoring and management | AWS, AI, Python |
-| [Smart Finance Assistant](https://github.com/DAMINIKATAKAM/smart_finance_management) | Financial forecasting and AI-powered insights | Python, LSTM, RAG, Streamlit |
+| [Asynchronous FIFO](https://github.com/DAMINIKATAKAM/async-fifo-verilog) | Dual-clock FIFO that safely passes data between unrelated clock domains | Gray-code pointers · 2-FF synchronizers · 4,000+ random transfers verified |
+| [SPI Master–Slave](https://github.com/DAMINIKATAKAM/spi-master-slave-verilog) | SPI master (mode 0) talking to a slave with a 16 × 8-bit register file | FSM design · protocol monitors · 350+ verified transactions |
+| [Image Processing Pipeline](https://github.com/DAMINIKATAKAM/image-processing-verilog) | Streaming RGB core with 8 effects: grayscale, sepia, threshold and more | 2-stage pipeline · 1 pixel/clock · BMP file I/O in Verilog |
+| [Verilog Digital Safe Lock](https://github.com/DAMINIKATAKAM/Verilog-Digital-Safe-Lock) | Digital security system built from RTL logic | FSM · Verilog · FPGA |
+| [CMOS Schmitt Trigger](https://github.com/DAMINIKATAKAM/CMOS-Schmitt-Trigger-Cadence) | CMOS circuit design and simulation | CMOS · Cadence |
+| [Smart Glasses for the Visually Impaired](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) | Assistive device using embedded hardware and AI | Embedded · Edge Impulse |
+| [Voice-Controlled Smart Car](https://github.com/DAMINIKATAKAM/Voice-Controlled-Smart-Car) | Bluetooth-controlled car with obstacle avoidance | Arduino · Embedded C |
+| [TrafficSense](https://github.com/DAMINIKATAKAM/TrafficSense-Intelligent-Traffic-Management) | Intelligent traffic monitoring and management | AWS · AI · Python |
+| [Smart Finance Assistant](https://github.com/DAMINIKATAKAM/smart_finance_management) | Financial forecasting with AI-powered insights | Python · LSTM · RAG · Streamlit |
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats
 
-### 💻 Programming & Hardware Description
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Programming languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAMINIKATAKAM&theme=github_dark" height="180" alt="Profile summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DAMINIKATAKAM&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats" />
 </p>
 
-### ⚡ Embedded Systems, FPGA & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,matlab,git,github,linux,vscode" alt="Hardware and development tools" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAMINIKATAKAM&theme=github_dark" height="165" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAMINIKATAKAM&theme=github_dark" height="165" alt="Top languages by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DAMINIKATAKAM&theme=github_dark&utcOffset=5.5" height="165" alt="Commits by hour" />
 </p>
 
-**Additional tools:** Verilog HDL · Quartus Prime · ModelSim · Cadence · Simulink · ESP32 · Arduino Uno
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI and machine learning tools" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DAMINIKATAKAM&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
-
-**Additional technologies:** Scikit-learn · Streamlit · Hugging Face · Gemini API · Edge Impulse
 
 ---
 
-## 🌐 Connect With Me
+## 📚 My Tech Stack
+
+<h3 align="center">⚡ Hardware Design & Verification</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-HDL-3fb950?style=for-the-badge" alt="Verilog" />
+  <img src="https://img.shields.io/badge/Icarus-Verilog-22d3ee?style=for-the-badge" alt="Icarus Verilog" />
+  <img src="https://img.shields.io/badge/GTKWave-Waveforms-a371f7?style=for-the-badge" alt="GTKWave" />
+  <img src="https://img.shields.io/badge/Quartus-Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus Prime" />
+  <img src="https://img.shields.io/badge/ModelSim-Simulation-f0883e?style=for-the-badge" alt="ModelSim" />
+  <img src="https://img.shields.io/badge/Cadence-EDA-e5534b?style=for-the-badge" alt="Cadence" />
+</p>
+
+<h3 align="center">💻 Programming</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming languages" />
+</p>
+
+<h3 align="center">🔌 Embedded Systems & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab,git,github,linux,vscode" alt="Embedded and development tools" />
+</p>
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws" alt="AI and cloud tools" />
+</p>
+
+---
+
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/damini-katakam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:damukats@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>Always learning. Always building. Always curious about what's possible.</i> ⚡
-</p>
+<p align="center"><i>Always learning. Always building.</i> ⚡</p>
