@@ -2,7 +2,6 @@
 <h3 align="center">An Electronics and Communication Engineering student working across RTL Design, VLSI, Embedded Systems and AI</h3>
 
 
-
 ---
 
 ## 💫 About Me
@@ -11,7 +10,7 @@
 - 🚀 **Currently:** Building hardware end to end, from Verilog RTL and CMOS circuits to ESP32 devices and AI-powered applications
 - ⚡ **Digital Design & FPGA:** RTL in Verilog with FSMs, clock domain crossing, pipelining, SPI and self-checking testbenches
 - 🔬 **VLSI:** Transistor-level CMOS design and simulation in Cadence Virtuoso
-- 🔌 **Embedded Systems & IoT:** ESP32, Arduino, sensors, Bluetooth (HC-05) and Embedded C for real-world devices
+- 🔌 **Embedded Systems & IoT:** ESP32, Arduino, flex and IMU sensors, I2C and UART peripherals, Bluetooth (HC-05) and Embedded C for wearable and assistive devices
 - 🤖 **AI & Cloud:** LSTM forecasting, RAG, Gemini API, computer vision, Edge Impulse and AWS-based analytics
 - 💻 **Languages:** Verilog HDL, C, C++, Embedded C, Python, Java
 - 🛠️ **Tools:** Icarus Verilog, GTKWave, Quartus Prime, ModelSim, Cadence Virtuoso, MATLAB/Simulink, Arduino IDE, Git
@@ -47,6 +46,7 @@
 | Project | What it does | Highlights |
 |---|---|---|
 | [Smart Glasses for the Visually Impaired](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) | ESP32-based assistive glasses for safer navigation | Obstacle detection · motion sensing · camera object recognition |
+| [Wearable Smart Communication Glove](https://github.com/DAMINIKATAKAM/Wearable-Smart-Communication-Glove) | Glove that turns finger gestures into messages for people with speech difficulties | 3 flex sensors · threshold-based gesture recognition · I2C LCD · HC-05 Bluetooth to smartphone |
 | [Voice-Controlled Smart Car](https://github.com/DAMINIKATAKAM/Voice-Controlled-Smart-Car) | Arduino car driven by voice commands over Bluetooth | HC-05 module · C++ |
 
 ### 🤖 AI & Cloud
