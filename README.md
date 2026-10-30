@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damini Katakam</h1>
 <h3 align="center">An Electronics and Communication Engineering student passionate about RTL Design, FPGA Development, VLSI and Embedded Systems</h3>
 
-<p align="center">
-  <img src="banner.svg" alt="FPGA chip with clock waveforms" width="100%" />
-</p>
+
 
 ---
 
@@ -27,17 +25,34 @@
 
 ## 🚀 Featured Projects
 
+### ⚡ Digital Design & FPGA (Verilog)
+
 | Project | What it does | Highlights |
 |---|---|---|
 | [Asynchronous FIFO](https://github.com/DAMINIKATAKAM/async-fifo-verilog) | Dual-clock FIFO that safely passes data between unrelated clock domains | Gray-code pointers · 2-FF synchronizers · 4,000+ random transfers verified |
 | [SPI Master–Slave](https://github.com/DAMINIKATAKAM/spi-master-slave-verilog) | SPI master (mode 0) talking to a slave with a 16 × 8-bit register file | FSM design · protocol monitors · 350+ verified transactions |
 | [Image Processing Pipeline](https://github.com/DAMINIKATAKAM/image-processing-verilog) | Streaming RGB core with 8 effects: grayscale, sepia, threshold and more | 2-stage pipeline · 1 pixel/clock · BMP file I/O in Verilog |
-| [Verilog Digital Safe Lock](https://github.com/DAMINIKATAKAM/Verilog-Digital-Safe-Lock) | Digital security system built from RTL logic | FSM · Verilog · FPGA |
-| [CMOS Schmitt Trigger](https://github.com/DAMINIKATAKAM/CMOS-Schmitt-Trigger-Cadence) | CMOS circuit design and simulation | CMOS · Cadence |
-| [Smart Glasses for the Visually Impaired](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) | Assistive device using embedded hardware and AI | Embedded · Edge Impulse |
-| [Voice-Controlled Smart Car](https://github.com/DAMINIKATAKAM/Voice-Controlled-Smart-Car) | Bluetooth-controlled car with obstacle avoidance | Arduino · Embedded C |
-| [TrafficSense](https://github.com/DAMINIKATAKAM/TrafficSense-Intelligent-Traffic-Management) | Intelligent traffic monitoring and management | AWS · AI · Python |
-| [Smart Finance Assistant](https://github.com/DAMINIKATAKAM/smart_finance_management) | Financial forecasting with AI-powered insights | Python · LSTM · RAG · Streamlit |
+| [Digital Safe Lock](https://github.com/DAMINIKATAKAM/Verilog-Digital-Safe-Lock) | FPGA-based safe lock with password verification and reset | FSM · seven-segment display output |
+
+### 🔬 Analog / Transistor-Level VLSI
+
+| Project | What it does | Highlights |
+|---|---|---|
+| [CMOS Schmitt Trigger](https://github.com/DAMINIKATAKAM/CMOS-Schmitt-Trigger-Cadence) | Transistor-level CMOS Schmitt trigger designed in Cadence Virtuoso | Schematic · symbol creation · transient analysis |
+
+### 🔌 Embedded Systems & IoT
+
+| Project | What it does | Highlights |
+|---|---|---|
+| [Smart Glasses for the Visually Impaired](https://github.com/DAMINIKATAKAM/Smart-Glasses-for-Visually-Impaired) | ESP32-based assistive glasses for safer navigation | Obstacle detection · motion sensing · camera object recognition |
+| [Voice-Controlled Smart Car](https://github.com/DAMINIKATAKAM/Voice-Controlled-Smart-Car) | Arduino car driven by voice commands over Bluetooth | HC-05 module · C++ |
+
+### 🤖 AI & Cloud
+
+| Project | What it does | Highlights |
+|---|---|---|
+| [TrafficSense](https://github.com/DAMINIKATAKAM/TrafficSense-Intelligent-Traffic-Management) | Cloud-based intelligent traffic analysis | Vehicle counting · ambulance detection · clearance-time prediction |
+| [Smart Finance Assistant](https://github.com/DAMINIKATAKAM/smart_finance_management) | AI-powered personal finance tracker | LSTM forecasting · RAG transaction search · Gemini AI budgeting |
 
 ---
 
@@ -69,7 +84,7 @@
   <img src="https://img.shields.io/badge/GTKWave-Waveforms-a371f7?style=for-the-badge" alt="GTKWave" />
   <img src="https://img.shields.io/badge/Quartus-Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus Prime" />
   <img src="https://img.shields.io/badge/ModelSim-Simulation-f0883e?style=for-the-badge" alt="ModelSim" />
-  <img src="https://img.shields.io/badge/Cadence-EDA-e5534b?style=for-the-badge" alt="Cadence" />
+  <img src="https://img.shields.io/badge/Cadence-Virtuoso-e5534b?style=for-the-badge" alt="Cadence" />
 </p>
 
 <h3 align="center">💻 Programming</h3>
